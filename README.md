@@ -11,13 +11,35 @@ Hands on deep dives into the inner working of deep learning objectdetectors usin
   **Example Image of Trypanosomiasis in microscopy images**
 </div>
 
-### What do I do during this course?
+## What do I do during this internship?
 
 Use: Pytorch and Detectron 2
 
-**All of study for the internship revolves around interpreting and analyzing provided code.**
+### Organization of this internship
 
-#### Work Flow This Program
+This program is constructed with two things: self-study, task and final project. 
+
+Firstly, I was introduced to the code related Object Detection by accessing tutorials as link with code examples accompanied by explanation and lecture videos, enablint me to become familar and understanding with the subject matter. 
+
+Subsequently, I was given tasks to apply and practice the knowledge I had gained from the tutorials and video lectures.
+
+At final week, as describing main task description, I annotated parasites in given medical images as json file with roboflow and proceeded from preparing data to evaluation with detectron 2.
+
+### Then, How do I study during self study?
+
+In essence, I utilized Google Colab to excute the provided code in real and write my learned knowledge and finding from gooling and given resources into practical code implementation.
+
+**example**
+
+<img width="500" alt="image" src="https://github.com/JayeonKangNature/2022_Summer_Internship/assets/143944699/36454535-f287-4ce9-b397-d40c61a1df31">
+
+Upon reviewing the provided code, I made an effort to comprehend and investigate how each command functions and is structured, and I have documented my findings below the code.
+
+<img width="500" alt="image" src="https://github.com/JayeonKangNature/2022_Summer_Internship/assets/143944699/63034d62-88e0-41d4-95af-aabc17f8efa3">
+
+With comments, I documented the flow of the code and what code do.
+
+### Work Flow This Program
 
 #### Week 1: Introduction to PyTorch   
 
@@ -40,20 +62,20 @@ Video link: https://www.youtube.com/watch?v=P4Z8_qe2Cu0
 
 **Self-Study**
 
+Based on knowledge learned before, in earnest treated code of image classification model construction with CIFAR10 and simple Convolutional Neural Network model. During the process from data processing to evaluation, I immersed myself in how PyTorch is used. Through this journy, I gained a comprehensive understanidng of how to structure the syntex of used command in code and function for these task. Furthermore, I grasped logistic behid the code's flow, comprehending the rationale behind each step in the process. 
+
 
 **Task**
-With using what I sutudied from self-study, 
+
+With using what I sutudied from self-study,build up code to preparing customized data and develop Convolutional Neural Network model for classification in real. 
 
 #### Week 3: Image Classification Model Construction with Customized Model and Data
 
-**Self-Study**
+**Self-Study and Task**
 
-This week 
+This week is constructed with intgration of self-study and task.
 
-**Task**
-
-
-#### Week 4: Trypanosmome Parasite Detection Model Construction
+#### Week 4: Final project Trypanosmome Parasite Detection Model Construction
 
 
 
