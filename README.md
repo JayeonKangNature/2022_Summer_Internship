@@ -55,7 +55,8 @@ This task proceeded by composing two reports: one is response to answers and wrt
 
 * Report 1 in response to questions: The questions are asked mainly about compairing ANN, CNN, ML. To answer this quesition and understand, I tried to read several papers to understand 
 
-* Report 2 for writing about video: the video serves tutorial on utilizing code and workgin with OpenCV, demonstrating its practical cases in real world. So, this report sumerized the lecture video in one page. (you can see the report in this re
+* Report 2 for writing about video: the video serves tutorial on utilizing code and workgin with OpenCV, demonstrating its practical cases in real world. So, this report sumerized the lecture video in one page. (you can see my report in this github + I saved the file as mark down)
+
 Video link: https://www.youtube.com/watch?v=P4Z8_qe2Cu0 
 
 #### Week 2: Image Classification Model Construction
@@ -67,7 +68,7 @@ Based on knowledge learned before, in earnest treated code of image classificati
 
 **Task**
 
-With using what I sutudied from self-study,build up code to preparing customized data and develop Convolutional Neural Network model for classification in real. 
+With using what I sutudied from self-study, build up code to preparing customized data and develop Convolutional Neural Network model for classification in real with PyTorch and serveral library like numpy, matplot and so on.
 
 #### Week 3: Image Classification Model Construction with Customized Model and Data
 
