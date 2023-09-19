@@ -74,11 +74,13 @@ With using what I sutudied from self-study, build up code to preparing customize
 
 **Self-Study and Task**
 
-This week is constructed with intgration of self-study and task.
+This week is constructed with intgration of self-study and task. 
 
 #### Week 4: Final project Trypanosmome Parasite Detection Model Construction
 
+Final project is constructed as team project. This project aim developing parasite detection model Faster RCNN model with higher performance through preprocessing as training paprasite in medical image. The given images were 2000 that are annotated with us as sperating 400 images per person into json file through roboflow. Unlike previous work, this project use Detectron 2 to build model. 
 
+The final project is a collaborative effort, strcutred as a team proejct with the goal of enhancing the performance of a Faster RCNN parasite detection model through preprocessing applied to meidcal images. we were provided with 2000 images with parasite and annotated them into json file using Roboflow. In contrast to previous approach, this project mainly utilize Detectron 2.
 
 # After the internship, my little pride (Things that have been praised 😎)
 ## Week 1
