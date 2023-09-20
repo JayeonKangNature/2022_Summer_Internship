@@ -53,10 +53,9 @@ Furthermore, I also covered generaly the essential steps and used items involved
 
 This task proceeded by composing two reports: one is response to answers and wrting what I learn through Video about Open CV and Computer Vision (3 hours).
 
-* Report 1 in response to questions: The questions are asked mainly about compairing ANN, CNN, ML. To answer this quesition and understand, I tried to read several papers to understand 
+* Report 1 in response to questions: The questions are asked mainly about compairing ANN, CNN, ML. To answer this quesition and understand, I tried to read several papers to understand.
 
-* Report 2 for writing about video: the video serves tutorial on utilizing code and workgin with OpenCV, demonstrating its practical cases in real world. So, this report sumerized the lecture video in one page. (you can see my report in this github + I saved the file as mark down)
-
+* Report 2 for writing about video: the video serves tutorial on utilizing code and workgin with OpenCV, demonstrating its practical cases in real world. So, this report sumerized the lecture video in one page. (you can see my report in this github + I saved the file as mark down).
 Video link: https://www.youtube.com/watch?v=P4Z8_qe2Cu0 
 
 #### Week 2: Image Classification Model Construction
@@ -64,7 +63,6 @@ Video link: https://www.youtube.com/watch?v=P4Z8_qe2Cu0
 **Self-Study**
 
 Based on knowledge learned before, in earnest treated code of image classification model construction with CIFAR10 and simple Convolutional Neural Network model. During the process from data processing to evaluation, I immersed myself in how PyTorch is used. Through this journy, I gained a comprehensive understanidng of how to structure the syntex of used command in code and function for these task. Furthermore, I grasped logistic behid the code's flow, comprehending the rationale behind each step in the process. 
-
 
 **Task**
 
@@ -75,6 +73,11 @@ With using what I sutudied from self-study, build up code to preparing customize
 **Self-Study and Task**
 
 This week is constructed with intgration of self-study and task. 
+Through attached link to a tutorial on object detection from 'scratch', convert the tutorial code to execute and run on Colab
+
+The target is two-fold:
+i) To learn how to convert a code to run on Colab
+ii) To gain a more fundamental understanding of how object detection works.
 
 #### Week 4: Final project Trypanosmome Parasite Detection Model Construction
 
