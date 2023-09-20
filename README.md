@@ -56,7 +56,7 @@ This task proceeded by composing two reports: one is response to answers and wrt
 
 * Report 1 in response to questions: The questions are asked mainly about compairing ANN, CNN, ML. To answer this quesition and understand, I tried to read several papers to understand.
 
-* Report 2 for writing about video: the video serves tutorial on utilizing code and workgin with OpenCV, demonstrating its practical cases in real world. So, this report sumerized the lecture video in one page. (you can see my report in this respository + I saved the file as mark down).
+* Report 2 for writing about video: the video serves tutorial on utilizing code and workgin with OpenCV, demonstrating its practical cases in real world. So, this report sumerized the lecture video in one page. (you can see my report in this respository + I saved the file as mark down, named as Week1_Answer_question_and_report.md).
 Video link: https://www.youtube.com/watch?v=P4Z8_qe2Cu0 
 
 #### Week 2: Image Classification Model Construction
