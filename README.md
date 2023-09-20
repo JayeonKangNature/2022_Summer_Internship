@@ -82,7 +82,9 @@ This week is constructed with intgration of self-study and task.
 Through attached link to a tutorial on object detection from 'scratch', convert the tutorial code to execute and run on Colab
 
 The target is two-fold:
+
 i) To learn how to convert a code to run on Colab
+
 ii) To gain a more fundamental understanding of how object detection works.
 
 #### Week 4: Final project Trypanosmome Parasite Detection Model Construction
