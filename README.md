@@ -47,7 +47,8 @@ With comments, I documented the flow of the code and what code do.
 
 This week, I was devlved into the fundentals of working with tensor data, understanding its constructure and operstions.
 
-Furthermore, I also covered generaly the essential steps and used items involved in traing, including data processing, dening loss functions, optimaziation techinques and model estimation with code LeNet model and CIFAR 10 dataset.
+Furthermore, I also covered generaly the essential steps and used items involved in traing, including data processing, dening loss functions, 
+optimaziation techinques and model estimation with code LeNet model and CIFAR 10 dataset.
 
 **Task**
 
@@ -55,7 +56,7 @@ This task proceeded by composing two reports: one is response to answers and wrt
 
 * Report 1 in response to questions: The questions are asked mainly about compairing ANN, CNN, ML. To answer this quesition and understand, I tried to read several papers to understand.
 
-* Report 2 for writing about video: the video serves tutorial on utilizing code and workgin with OpenCV, demonstrating its practical cases in real world. So, this report sumerized the lecture video in one page. (you can see my report in this github + I saved the file as mark down).
+* Report 2 for writing about video: the video serves tutorial on utilizing code and workgin with OpenCV, demonstrating its practical cases in real world. So, this report sumerized the lecture video in one page. (you can see my report in this respository + I saved the file as mark down).
 Video link: https://www.youtube.com/watch?v=P4Z8_qe2Cu0 
 
 #### Week 2: Image Classification Model Construction
