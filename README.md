@@ -21,7 +21,7 @@ This program is constructed with two things: self-study, task and final project.
 
 Firstly, I was introduced to the code related Object Detection by accessing tutorials as link with code examples accompanied by explanation and lecture videos, enablint me to become familar and understanding with the subject matter. 
 
-Subsequently, I was given tasks to apply and practice the knowledge I had gained from the tutorials and video lectures.
+Subsequently, I was given tasks to apply and practice the knowledge I had gained from the tutorials oneline sources and video lectures.
 
 At final week, as describing main task description, I annotated parasites in given medical images as json file with roboflow and proceeded from preparing data to evaluation with detectron 2.
 
@@ -66,7 +66,9 @@ Based on knowledge learned before, in earnest treated code of image classificati
 
 **Task**
 
-With using what I sutudied from self-study, build up code to preparing customized data and develop Convolutional Neural Network model for classification in real with PyTorch and serveral library like numpy, matplot and so on.
+With using what I sutudied from self-study,two tasks are provided: basic task and advanced task.
+At basic task, I filled up code in given incomplete template code for training yet another interesting image dataset.
+At advanced task, as refering to the model trained in Task 1 as the CIFAR-10 pre-trained model,build up code to preparing customized data and develop Convolutional Neural Network model for classification in real with PyTorch and serveral library like numpy, matplot and so on.
 
 #### Week 3: Image Classification Model Construction with Customized Model and Data
 
