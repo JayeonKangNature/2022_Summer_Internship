@@ -22,25 +22,25 @@ Use: Pytorch and Detectron 2
 
 This program is constructed with two things: self-study, task and final project. 
 
-Firstly, I was introduced to the code related Object Detection by accessing tutorials as link with code examples accompanied by explanation and lecture videos, enablint me to become familar and understanding with the subject matter. 
+Firstly, I was introduced to the code-related Object Detection by accessing tutorials as links with code examples accompanied by explanations and lecture videos, enablint me to become familiar with and understanding the subject matter. 
 
-Subsequently, I was given tasks to apply and practice the knowledge I had gained from the tutorials oneline sources and video lectures.
+Subsequently, I was given tasks to apply and practice the knowledge I had gained from the tutorials online sources and video lectures.
 
-At final week, as describing main task description, I annotated parasites in given medical images as json file with roboflow and proceeded from preparing data to evaluation with detectron 2.
+At the final week, as describing the main task description, I annotated parasites in given medical images as json files with Roboflow and proceeded from preparing data to evaluation with Detectron 2.
 
-### Then, How do I study during self study?
+### Then, How do I study during self-study?
 
-In essence, I utilized Google Colab to excute the provided code in real and write my learned knowledge and finding from gooling and given resources into practical code implementation.
+In essence, I utilized Google Colab to execute the provided code in real and write my learned knowledge and findings from googling and given resources into practical code implementation.
 
 **example**
 
 <img width="500" alt="image" src="https://github.com/JayeonKangNature/2022_Summer_Internship/assets/143944699/36454535-f287-4ce9-b397-d40c61a1df31">
 
-Upon reviewing the provided code, I made an effort to comprehend and investigate how each command functions and is structured, and I have documented my findings below the code.
+After looking over the provided code, I made an effort to understand and investigate how each command functions and is structured, and I have documented my findings below the code.
 
 <img width="500" alt="image" src="https://github.com/JayeonKangNature/2022_Summer_Internship/assets/143944699/63034d62-88e0-41d4-95af-aabc17f8efa3">
 
-With comments, I documented the flow of the code and what code do.
+With comments, I documented the flow of the code and what the code does.
 
 ### Work Flow This Program
 
@@ -48,38 +48,38 @@ With comments, I documented the flow of the code and what code do.
 
 **Self-Study**
 
-This week, I was devlved into the fundentals of working with tensor data, understanding its constructure and operstions.
+This week, I was devolved into the fundamentals of working with tensor data, understanding its structure and operations.
 
-Furthermore, I also covered generaly the essential steps and used items involved in traing, including data processing, dening loss functions, 
+Furthermore, I also covered generally the essential steps and used items involved in training, including data processing, loss functions, 
 optimaziation techinques and model estimation with code LeNet model and CIFAR 10 dataset.
 
 **Task**
 
-This task proceeded by composing two reports: one is response to answers and wrting what I learn through Video about Open CV and Computer Vision (3 hours).
+This task proceeded by composing two reports: one is a response to answers and writing what I learned through Video about Open CV and Computer Vision (3 hours).
 
-* Report 1 in response to questions: The questions are asked mainly about compairing ANN, CNN, ML. To answer this quesition and understand, I tried to read several papers to understand.
+* Report 1 in response to questions: The questions are asked mainly about comparing ANN, CNN, ML. To answer this question and understand, I tried to read several papers to understand.
 
-* Report 2 for writing about video: the video serves tutorial on utilizing code and workgin with OpenCV, demonstrating its practical cases in real world. So, this report sumerized the lecture video in one page. (you can see my report in this respository + I saved the file as mark down, named as Week1_Answer_question_and_report.md).
+* Report 2 for writing about the video: the video serves tutorial on utilizing code and working with OpenCV, demonstrating its practical cases in the real world. So, this report summarized the lecture video in one page. (you can see my report in this repository + I saved the file as markdown, named as Week1_Answer_question_and_report.md).
 Video link: https://www.youtube.com/watch?v=P4Z8_qe2Cu0 
 
 #### Week 2: Image Classification Model Construction
 
 **Self-Study**
 
-Based on knowledge learned before, in earnest treated code of image classification model construction with CIFAR10 and simple Convolutional Neural Network model. During the process from data processing to evaluation, I immersed myself in how PyTorch is used. Through this journy, I gained a comprehensive understanidng of how to structure the syntex of used command in code and function for these task. Furthermore, I grasped logistic behid the code's flow, comprehending the rationale behind each step in the process. 
+Based on knowledge learned before, in earnest treated code of image classification model construction with CIFAR10 and simple Convolutional Neural Network model. During the process from data processing to evaluation, I immersed myself in how PyTorch is used. Through this journey, I gained a comprehensive understanding of how to structure the syntex of used commands in code and function for these tasks. Furthermore, I grasped logistics behid the code's flow, comprehending the rationale behind each step in the process. 
 
 **Task**
 
-With using what I sutudied from self-study,two tasks are provided: basic task and advanced task.
-At basic task, I filled up code in given incomplete template code for training yet another interesting image dataset.
-At advanced task, as refering to the model trained in Task 1 as the CIFAR-10 pre-trained model,build up code to preparing customized data and develop Convolutional Neural Network model for classification in real with PyTorch and serveral library like numpy, matplot and so on.
+Using what I studied from self-study, two tasks are provided: basic task and advanced task.
+At the basic task, I filled up code in given incomplete template code for training yet another interesting image dataset.
+At advanced tasks, referring to the model trained in Task 1 as the CIFAR-10 pre-trained model,build up code to preparing customized data and develop Convolutional Neural Network model for classification in real with PyTorch and several library like numpy, matplot, and so on.
 
 #### Week 3: Image Classification Model Construction with Customized Model and Data
 
 **Self-Study and Task**
 
-This week is constructed with intgration of self-study and task. 
-Through attached link to a tutorial on object detection from 'scratch', convert the tutorial code to execute and run on Colab
+This week is constructed with integration of self-study and tasks. 
+Through an attached link to a tutorial on object detection from 'scratch', convert the tutorial code to execute and run on Colab
 
 The target is two-fold:
 
@@ -89,7 +89,7 @@ ii) To gain a more fundamental understanding of how object detection works.
 
 #### Week 4: Final project Trypanosmome Parasite Detection Model Construction
 
-The final project is a collaborative effort, strcutred as a team proejct with the goal of enhancing the performance of a Faster RCNN parasite detection model through preprocessing applied to meidcal images. we were provided with 2000 images with parasite and annotated them into json file using Roboflow. In contrast to previous approach, this project mainly utilize Detectron 2.
+The final project is a collaborative effort, structured as a team project with the goal of enhancing the performance of a Faster RCNN parasite detection model through preprocessing applied to medical images. we were provided with 2000 images with parasites and annotated them into JSON file using Roboflow. In contrast to previous approach, this project mainly utilizes Detectron 2.
 
 # After the internship, my little pride (Things that have been praised 😎)
 ## Week 1
